@@ -1,5 +1,7 @@
 # Interactive Message System
 
+link repositorio: https://github.com/valncabs/US_JS_WEEK_1_2_3_4--.git
+
 ## Description
 This project is a simple interactive system developed with JavaScript.  
 The program asks the user for their name and age, validates the age input, and displays personalized messages according to the user's age.

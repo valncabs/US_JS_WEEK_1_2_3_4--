@@ -1,5 +1,7 @@
 # Dynamic DOM Management with Browser Persistence
 
+link repositorio: https://github.com/valncabs/US_JS_WEEK_1_2_3_4--.git
+
 ## Description
 This project is a simple notes application developed with JavaScript.  
 Users can add and remove notes dynamically using the DOM API, while Local Storage keeps the notes saved even after refreshing the page.

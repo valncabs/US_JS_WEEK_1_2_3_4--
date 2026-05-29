@@ -1,5 +1,7 @@
 # Gestión de Productos Web App
 
+link repositorio: https://github.com/valncabs/US_JS_WEEK_1_2_3_4--.git
+
 ## Descripción del proyecto
 
 Esta aplicación web fue desarrollada con JavaScript moderno (ES6+) y tiene como objetivo gestionar productos mediante operaciones dinámicas en el DOM, persistencia de datos en Local Storage y sincronización con una API usando Fetch API.
