@@ -1,0 +1,86 @@
+/* Reset default spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+/* Main container */
+.container {
+    width: 400px;
+    background-color: rgb(245, 223, 250);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Title style */
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Instruction text */
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+/* Input area */
+.input-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* Input style */
+input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #c8c8c8;
+    border-radius: 5px;
+}
+input:focus {
+    outline: none;
+    border-color: #2f0d35e3;
+}
+
+/* Button style */
+button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #bb04e0e3;
+    color: white;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #400353;
+    cursor: pointer;
+}
+
+/* Notes list */
+ul {
+    list-style: none;
+}
+
+/* Note item */
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e5b2fd9e;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
